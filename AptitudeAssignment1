@@ -1,0 +1,54 @@
+														Aptitude Assignment 1
+
+
+Questions:
+
+1. The equations of the lines x=2 & y=4 meet at the point .............
+2. Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+3. Equation 7x+9y=-5 has how many keys?
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0 .
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find
+out the ratio of their expenditures if their savings are Rs 500 & Rs 700,
+respectively.
+
+
+
+Answers:
+
+1-The equations x=2 and y=4 meet at the point (2, 4).
+
+2-The system of equations 2X + 3Y = 9 and 7X + 9Y = -6 has a 
+	unique solution. This is because the system has two equations 
+	with two variables (X and Y) and the determinant of the coefficient 
+	matrix is non-zero. Therefore, the lines represented by the equations 
+	intersect at a single point.
+
+3-The equation 7x + 9y = -5 represents a linear equation in two variables,
+	 x and y. It has infinitely many solutions. This is because it represents 
+	 a line in the xy-plane, and any point lying on that line is a solution to 
+	 the equation. The equation does not have a unique solution.
+
+4-If the coefficients a, b, and c in the quadratic 
+	equation ax^2 + bx + c = 0 are all zero (a = b = c = 0), 
+	then the equation becomes 0x^2 + 0x + 0 = 0. In this case,
+	 the equation is satisfied for all values of x. It represents an 
+	 identity rather than an equation with a specific solution. 
+	 In other words, it is true for every value of x.
+
+5-The income ratio of A to B is given as 2:3. If B's income is
+	 Rs 3000, the income of A can be calculated using the given ratio.
+
+	The income ratio of A to B is 2:3, which means A's income is (2/3) times the income of B.
+	So, A's income = (2/3) * B's income = (2/3) * Rs 3000 = Rs 2000.
+
+	Given that the savings of A and B are Rs 500 and Rs 700 respectively, we can find the ratio of their expenditures.
+	Expenditure of A = Income of A - Savings of A = Rs 2000 - Rs 500 = Rs 1500.
+	Expenditure of B = Income of B - Savings of B = Rs 3000 - Rs 700 = Rs 2300.
+
+	Therefore, the ratio of their expenditures is 1500:2300, which can be simplified as 15:23.
+
+
+
+
+
+
